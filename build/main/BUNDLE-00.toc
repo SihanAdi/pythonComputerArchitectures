@@ -1,0 +1,4 @@
+([('main',
+   '/Users/adisihansun/Desktop/Computer System '
+   'Architecture/project3_6461/pythonProject3/dist/main',
+   'EXECUTABLE')],)
